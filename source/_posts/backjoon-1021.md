@@ -2,11 +2,11 @@
 title: backjoon_1021
 date: 2020-11-19 01:00:00
 tags: [backjoon]
-categorries:
+categories:
 - [backjoon]
 ---
 
-백준 1021 deque구현 python 파이썬
+백준 1021 회전하는 큐 deque구현 python 파이썬
 [백준1021문제](https://www.acmicpc.net/problem/1021)
 
 {% codeblock lang:python %}

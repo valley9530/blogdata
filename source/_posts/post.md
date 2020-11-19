@@ -3,7 +3,7 @@ layout: ':my'
 title: post
 date: 2020-11-18 01:21:41
 tags: [tag1,tag2,tag3,tag4]
-categorries:
+categories:
 - [Cat1]
 - [Cat2]
 - [Cat3]

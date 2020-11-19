@@ -2,7 +2,7 @@
 title: backjoon_10866
 date: 2020-11-18 23:42:14
 tags: [backjoon]
-categorries:
+categories:
 - [backjoon]
 ---
 
