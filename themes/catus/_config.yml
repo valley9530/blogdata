@@ -140,8 +140,13 @@ open_graph:
 
 # Fill in your Disqus Comments Shortname to enable Disqus comments.
 disqus:
-  enabled: false
-  shortname: cactus-1
+  enabled: true
+  shortname: valley9530@github.io
+  count: true
+  lazyload: false
+#post_meta_order: 0
+
+
 
 # Fill in your Google Analytics tracking ID to enable Google Analytics.
 google_analytics:
