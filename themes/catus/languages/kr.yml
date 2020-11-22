@@ -1,20 +1,20 @@
 nav:
   home: 홈
   about: 소개
-  articles: 글 목록
+  articles: 글
   tag: 태그
-  category: 카테고리
+  category: category
   projects: 프로젝트
   search: 검색
 
 footer:
-  copyright: 저작권
+  copyright: copyright
 
 index:
-  find_me_on: 찾기
+  find_me_on: find me on
   enum_comma: ','
-  enum_and: 그리고
-  articles: 글 목록
+  enum_and: and
+  articles: RECENT POST
   projects: 프로젝트
   topics: 주제
   most_recent: 가장 최근

@@ -141,7 +141,7 @@ open_graph:
 # Fill in your Disqus Comments Shortname to enable Disqus comments.
 disqus:
   enabled: true
-  shortname: valley9530@github.io
+  shortname: valley9530-github-io
   count: true
   lazyload: false
 #post_meta_order: 0

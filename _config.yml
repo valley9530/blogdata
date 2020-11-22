@@ -8,7 +8,7 @@ subtitle: ''
 description: ''
 keywords:
 author: Jungcheon
-language: en
+language: kr
 timezone: ''
 
 # URL
@@ -106,3 +106,11 @@ deploy:
   type: git
   repo: https://github.com/valley9530/valley9530.github.io
   branch: master
+
+# Local Search
+# search
+search:
+path: search.xml
+field: all #post /page /all
+content: true # whether contains the whole content of each article. If false, the generated results only cover title and other meta info without mainbody. By default is true.
+format: html
